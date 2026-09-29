@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoalDiary</string>
+    <string name="long_term_goal">Long-term goal</string>
+    <string name="short_term_goal">Short-term goal</string>
+    <string name="today_progress">Today\'s progress</string>
+    <string name="today_events">Today\'s events</string>
+    <string name="not_configured">Placeholder · not configured yet</string>
+    <string name="progress_unavailable">Placeholder · progress will appear when goal tracking is implemented</string>
+    <string name="events_unavailable">Placeholder · events will appear when scheduling is implemented</string>
+    <string name="phase_one_placeholder">Placeholder screen · planned for a later development phase.</string>
+</resources>
